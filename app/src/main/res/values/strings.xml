@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">DateOfBirthCalcualtor</string>
+    <string name="app_name">Age In Minutes</string>
     <string name="topString">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="inMinutes">IN MINUTES</string>
+    <string name="selectDate">SELECT DATE</string>
+    <string name="selectedDate">Selected Date</string>
+    <string name="date">---</string>
+    <string name="difference">Difference In Minutes</string>
+    <string name="minutes">---</string>
 </resources>
